@@ -1,0 +1,167 @@
+course_id,course_title,subject_name
+1,Algorithmique,Informatique théorique
+2,Informatique quantique,Informatique théorique
+3,Intelligence artificielle,Informatique théorique
+4,Méthodes formelles,Informatique théorique
+5,Structures de données,Informatique théorique
+6,Théorie des automates,Informatique théorique
+7,Théorie de la calculabilité,Informatique théorique
+8,Théorie de la complexité,Informatique théorique
+9,Théorie des graphes,Informatique théorique
+10,Théorie de l'information,Informatique théorique
+11,Théorie des langages,Informatique théorique
+12,Calcul des prédicats,Logique
+13,Logique modale,Logique
+14,Logique mathématique,Logique
+15,Logique philosophique,Logique
+16,Logique propositionnelle,Logique
+17,Logique syllogistique,Logique
+18,Algèbre,Mathématiques pures
+19,Analyse,Mathématiques pures
+20,Arithmétique,Mathématiques pures
+21,Géométrie,Mathématiques pures
+22,Probabilités,Mathématiques pures
+23,Statistique,Mathématiques pures
+24,Topologie,Mathématiques pures
+25,Acoustique,Physique
+26,Électroacoustique,Physique
+27,Acoustique musicale,Physique
+28,Acoustique architecturale,Physique
+29,Biophysique,Physique
+30,Cryogénie,Physique
+31,Électromagnétisme,Physique
+32,Géophysique,Physique
+33,Mécanique,Physique
+34,Mécanique classique,Physique
+35,Cinématique,Physique
+36,Dynamique,Physique
+37,Mécanique,Physique
+38,Mécanique classique,Physique
+39,Cinématique,Physique
+40,Dynamique,Physique
+41,Mécanique des fluides,Physique
+42,Hydrodynamique,Physique
+43,Aérodynamique,Physique
+44,Hydrostatique,Physique
+45,Aérostatique,Physique
+46,Mécanique des milieux continus,Physique
+47,Mécanique quantique,Physique
+48,Mécanique statique,Physique
+49,Optique,Physique
+50,Physico-chimie,Physique
+51,Physique atmosphérique,Physique
+52,Physique de la matière condensée,Physique
+53,Physique des particules,Physique
+54,Physique des plasmas,Physique
+55,Physique des polymères,Physique
+56,Physique nucléaire,Physique
+57,Physique du solide,Physique
+58,Physique Théorique,Physique
+59,Macrosociologie,Sociologie
+60,Microsociologie,Sociologie
+61,Sociologie de l'art,Sociologie
+62,Sociologie clinique,Sociologie
+63,Sociologie de la communication,Sociologie
+64,Sociologie de la connaissance,Sociologie
+65,Sociologie de la culture,Sociologie
+66,Sociologie de l'éducation,Sociologie
+67,Sociologie de la famille,Sociologie
+68,Sociologie de la justice sociale,Sociologie
+69,Sociologie de la santé,Sociologie
+70,Sociologie des logiques d'action,Sociologie
+71,Sociologie des générations,Sociologie
+72,Sociologie des médias,Sociologie
+73,Sociologie des mouvements sociaux,Sociologie
+74,Sociologie des organisations,Sociologie
+75,Sociologie des rapports sociaux,Sociologie
+76,Sociologie des religions,Sociologie
+77,Sociologie des réseaux,Sociologie
+78,Sociologie du droit,Sociologie
+79,Sociologie du temps,Sociologie
+80,Sociologie du travail,Sociologie
+81,Sociologie économique,Sociologie
+82,Sociologie historique,Sociologie
+83,Sociologie militaire,Sociologie
+84,Sociologie politique,Sociologie
+85,Sociologie urbaine,Sociologie
+86,Sociologie rurale,Sociologie
+87,Sociolinguistique,Sociologie
+88,Sociobiologie,Sociologie
+89,Histoire sociale,Sociologie
+90,Histoire culturelle,Sociologie
+91,Anthropologie politique,Sciences politiques
+92,Étude des politiques publiques,Sciences politiques
+93,Études internationales et géopolitique,Sciences politiques
+94,Histoire politique,Sciences politiques
+95,Politique comparée,Sciences politiques
+96,Science administrative,Sciences politiques
+97,Sociologie politique,Sciences politiques
+98,Sociologie du vote,Sciences politiques
+99,Théorie politique,Sciences politiques
+100,Analyse économique du droit,Sciences juridiques
+101,Anthropologie juridique,Sciences juridiques
+102,Épistémologie du droit,Sciences juridiques
+103,Droit,Sciences juridiques
+104,Histoire du droit,Sciences juridiques
+105,Histoire des institutions,Sciences juridiques
+106,Philosophie du droit,Sciences juridiques
+107,Sociologie du droit,Sciences juridiques
+108,Théorie du droit,Sciences juridiques
+109,Analyse économique du droit,Économie
+110,Économétrie,Économie
+111,Économie politique,Économie
+112,Économie publique,Économie
+113,Économie du bien-être,Économie
+114,Économie de l'éducation,Économie
+115,Économie de l'entreprise,Économie
+116,Économie de la culture,Économie
+117,Économie de la considération,Économie
+118,Économie de la santé,Économie
+119,Économie de la famille,Économie
+120,Économie de l'environnement,Économie
+121,Économie du travail,Économie
+122,Économie du développement,Économie
+123,Économie internationale,Économie
+124,Économie monétaire,Économie
+125,Macroéconomie,Économie
+126,Microéconomie,Économie
+127,Finance,Économie
+128,Finance publique,Économie
+129,Histoire économique,Économie
+130,Didactique,Philosophie
+131,Esthétique,Philosophie
+132,Éthique,Philosophie
+133,Épistémologie,Philosophie
+134,Herméneutique,Philosophie
+135,Logique,Philosophie
+136,Méréologie,Philosophie
+137,Métaphysique,Philosophie
+138,Noétique,Philosophie
+139,Ontologie,Philosophie
+140,Philosophie de l'esprit,Philosophie
+141,Philosophie de la logique,Philosophie
+142,Philosophie de l'information,Philosophie
+143,Philosophie de la perception,Philosophie
+144,Philosophie de la religion,Philosophie
+145,Philosophie de la biologie,Philosophie
+146,Philosophie de la culture,Philosophie
+147,Philosophie de l'éducation,Philosophie
+148,Philosophie cognitive,Philosophie
+149,Philosophie de la vie,Philosophie
+150,Philosophie de la technique,Philosophie
+151,Philosophie de l'action,Philosophie
+152,Philosophie de l'espace et du temps,Philosophie
+153,Philosophie de l'Histoire,Philosophie
+154,Philosophie des sciences,Philosophie
+155,Philosophie des mathématiques,Philosophie
+156,Philosophie du droit,Philosophie
+157,Philosophie du langage,Philosophie
+158,Philosophie du processus,Philosophie
+159,Philosophie du suicide,Philosophie
+160,Philosophie économique,Philosophie
+161,Philosophie féministe,Philosophie
+162,Philosophie naturelle,Philosophie
+163,Philosophie politique,Philosophie
+164,Philosophie sociale,Philosophie
+165,Sophiologie,Philosophie
+166,Théorie de la connaissance,Philosophie
